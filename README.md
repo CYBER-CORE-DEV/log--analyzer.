@@ -12,7 +12,7 @@ Unlike standard scripts that load entire datasets into memory using functions li
 ##  How to Run Locally
 ### 1. Clone the repository:
 ```bash
-git clone [https://github.com/CYBER-CORE-DEV/log--analyzer.git](https://github.com/CYBER-CORE-DEV/log--analyzer.git)
+git clone https://github.com/CYBER-CORE-DEV/log--analyzer.git
 
 ```
 ### 2. Generate the dummy dataset:
